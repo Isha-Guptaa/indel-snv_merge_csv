@@ -1,2 +1,2 @@
 # indel-snv_merge_csv
-ss
+snakemake --cores 1 convert --use-conda
