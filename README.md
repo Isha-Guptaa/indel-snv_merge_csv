@@ -4,6 +4,16 @@ SNAKEMAKE PIPELINE (indel+snv>csv) USING CONDA FOR DEPENDENCY MANAGEMENT
 # PRE-REQUISITE:
 1) CONDA
 <br>
+
+# Input:
+ i) Somatics Indel VCF: https://nf-co.re/sarek/3.4.2/results/sarek/results-b5b766d3b4ac89864f2fa07441cdc8844e70a79e/test_full_aws/annotation/strelka/HCC1395T_vs_HCC1395N/?file=HCC1395T_vs_HCC1395N.strelka.somatic_indels_VEP.ann.vcf.gz
+ 
+ (file: HCC1395T_vs_HCC1395N.strelka.somatic_indels_VEP.ann.vcf.gz)
+
+ii) Somatic SNV CVF: https://nf-co.re/sarek/3.4.2/results/sarek/results-b5b766d3b4ac89864f2fa07441cdc8844e70a79e/test_full_aws/annotation/strelka/HCC1395T_vs_HCC1395N/?file=HCC1395T_vs_HCC1395N.strelka.somatic_snvs_VEP.ann.vcf.gz
+
+(file: CC1395T_vs_HCC1395N.strelka.somatic_snvs_VEP.ann.vcf.gz)
+
 # steps:
 <br>
 <br>
