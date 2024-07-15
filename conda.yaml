@@ -1,0 +1,8 @@
+name: second
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - samtools
+  - bcftools
