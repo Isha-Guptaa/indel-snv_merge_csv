@@ -1,4 +1,4 @@
-# indel-snv_merge_csv
+# snakemake_indel+snv_vcf-to-csv
 SNAKEMAKE PIPELINE (indel+snv>csv) USING CONDA FOR DEPENDENCY MANAGEMENT
 <br>
 PRE-REQUISITE: CONDA
