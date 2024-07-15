@@ -7,7 +7,7 @@ PRE-REQUISITE: CONDA
 conda install -n base -c conda-forge mamba
 
 2)Create a new environment for Snakemake workflows:
-# Create a new environment for Snakemake
+#Create a new environment for Snakemake
 mamba create -c conda-forge -c bioconda -n snakemake snakemake
 
 # Activate the snakemake environment
