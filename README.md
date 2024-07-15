@@ -16,6 +16,7 @@ snakemake --help
 
 7)Create env.yaml file with content: 
 
+![image](https://github.com/user-attachments/assets/320eaecc-af57-4998-b374-5d446775366f)
 
 
 
