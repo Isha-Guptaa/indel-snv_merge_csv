@@ -1,6 +1,8 @@
 # indel-snv_merge_csv
 SNAKEMAKE PIPELINE (indel+snv>csv) USING CONDA FOR DEPENDENCY MANAGEMENT
+<br>
 PRE-REQUISITE: CONDA
+<br>
 1)Install MAMBA using CONDA:
 conda install -n base -c conda-forge mamba
 
@@ -26,4 +28,5 @@ snakemake --help
 conda env create --file conda.yaml
 
 9)Run:
+<br>
 snakemake --cores 1 convert --use-conda
