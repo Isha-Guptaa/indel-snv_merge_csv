@@ -10,14 +10,22 @@ SNAKEMAKE PIPELINE (indel+snv>csv) USING CONDA FOR DEPENDENCY MANAGEMENT
 <br>
 conda install -n base -c conda-forge mamba
 <br>
+<br>
 2)Create a new environment for Snakemake workflows:
+<br>
+<br>
 #Create a new environment for Snakemake
+<br>
 mamba create -c conda-forge -c bioconda -n snakemake snakemake
-
+<br>
+<br>
 #Activate the snakemake environment
+<br>
 conda activate snakemake
-
+<br>
+<br>
 #Display Snakemake help
+<br>
 snakemake --help
 
 3)Create env.yaml file with content: 
