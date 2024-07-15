@@ -10,10 +10,10 @@ conda install -n base -c conda-forge mamba
 #Create a new environment for Snakemake
 mamba create -c conda-forge -c bioconda -n snakemake snakemake
 
-# Activate the snakemake environment
+#Activate the snakemake environment
 conda activate snakemake
 
-# Display Snakemake help
+#Display Snakemake help
 snakemake --help
 
 7)Create env.yaml file with content: 
