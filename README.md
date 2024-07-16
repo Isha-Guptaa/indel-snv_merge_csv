@@ -54,3 +54,13 @@ conda env create --file conda.yaml
 <br>
 <br>
 snakemake --cores 1 convert --use-conda
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/5db83f12-f9b3-4e63-998b-a856e2bb69f7)
+<br>
+![image](https://github.com/user-attachments/assets/cd29ecca-831f-4a77-a58b-4e281deaf0ef)
+<br>
+![image](https://github.com/user-attachments/assets/64371f14-e545-498d-b76b-2e6693e0515d)
+<br>
+![image](https://github.com/user-attachments/assets/532aad83-daf3-4c3f-9340-319ef5782e4d)
+
